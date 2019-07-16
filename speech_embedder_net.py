@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/4/16 17:13
-# @Author  : MengnanChen
+# @Author  : Anyue
 # @FileName: speech_embedder_net.py
 # @Software: PyCharm
 import math
