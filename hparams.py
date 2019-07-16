@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/4/16 11:35
-# @Author  : MengnanChen
+# @Author  : Anyue
 # @FileName: hparams.py
 # @Software: PyCharm
 
