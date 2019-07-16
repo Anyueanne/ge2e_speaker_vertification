@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2019/4/16 23:06
-# @Author  : MengnanChen
+# @Author  : Anyue
 # @FileName: train.py
 # @Software: PyCharm
 
